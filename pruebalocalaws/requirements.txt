@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+dvc[s3]
+boto3
+tensorflow==2.3.0
+fastapi
+uvicorn
+mlflow
+numpy
+mangum
